@@ -68,3 +68,5 @@ Format :- [firstname-lastname](linkedin profile link).
 
 [Vaibhav Pujari](https://www.linkedin.com/in/vaibhav-pujari-604505295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) Execom Management 24-25
 
+[Rutuja Chaudhari](https://www.linkedin.com/in/rutuja-chaudhari-85873b30b/) Execom 24-25
+
